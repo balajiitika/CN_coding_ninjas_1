@@ -14,4 +14,4 @@ export const authorSchema = new mongoose.Schema({
         ref: 'Book',
     }],
     reviews: 
-});
+})
